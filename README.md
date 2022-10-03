@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veeeetus
-- 👀 My goal is to work as backend developer in 2 years
-- 🌱 I’m currently taking cs50x 2021 lectures and learning python
+- 👀 My goal is to work as cloud engineer
+- 🌱 I’m currently taking cs50P 2022 (finished cs50x), learning Python, MySQl, Linux, and cloud computing stuff
 - 📫 How to reach me dawbor589@gmail.com :DD
 
 <!---
