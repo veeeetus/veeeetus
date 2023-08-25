@@ -4,4 +4,4 @@ A few months ago, I graduated from a technical school with an IT Technician prof
 
 I'm constantly working on improving and learning new things every day. Currently, I'm taking courses on various topics, such as Linux basics and project management frameworks. Additionally, I'm delving into cloud computing fundamentals. Apart from that, I'm also enhancing my Python skills through daily practice on Codewars. 
 
-Check my Codewars [account](https://www.codewars.com/users/veeeetus)
+Check my Codewars <a href="[http://example.com/](https://www.codewars.com/users/veeeetus)https://www.codewars.com/users/veeeetus" target="_blank">account</a>
